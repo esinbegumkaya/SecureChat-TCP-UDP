@@ -22,3 +22,7 @@ This is a Python-based chat application that demonstrates communication over TCP
 1. Start the UDP server:
    ```bash
    python UDP/UDPserver.py
+## How It Works
+The program processes a log file, extracts useful information, and saves the top 10 most accessed files. Below is an example output:
+
+![Example Output](assets/"C:\Users\esinb\OneDrive\Masaüstü\1.png")
